@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Full-Stack\\React-ASP.NETCore\\StudentProject\\StudentProject\\wwwroot\\instructors\\43bc5bd2-649e-4e7d-8fd8-64984fbb4342",
+      "PackagePath": "staticwebassets\\instructors"
+    },
+    {
+      "Id": "E:\\Full-Stack\\React-ASP.NETCore\\StudentProject\\StudentProject\\wwwroot\\instructors\\d20fd575-bf1a-42df-b9db-82991ae9f14e",
+      "PackagePath": "staticwebassets\\instructors"
+    },
+    {
+      "Id": "E:\\Full-Stack\\React-ASP.NETCore\\StudentProject\\StudentProject\\wwwroot\\instructors\\f841a242-a3d9-4517-a488-db7aa3fc4922",
+      "PackagePath": "staticwebassets\\instructors"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StudentProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StudentProject.props",
+      "PackagePath": "build\\StudentProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentProject.props",
+      "PackagePath": "buildMultiTargeting\\StudentProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StudentProject.props",
+      "PackagePath": "buildTransitive\\StudentProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
